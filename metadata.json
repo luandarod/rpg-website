@@ -1,0 +1,6 @@
+{
+  "name": "RPG Character Builder & Companion",
+  "description": "Gerador de fichas baseado em I.A. para múltiplos sistemas (D&D 5e/3.5, Pathfinder 2e, Tormenta20, Vampiro V5, Cyberpunk RED, Call of Cthulhu, Ordem Paranormal) com suporte a campanhas multiplayer, chat integrado, som ambiente e notas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
